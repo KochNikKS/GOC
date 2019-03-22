@@ -5,9 +5,6 @@ from tkinter import filedialog as fd, colorchooser as cchoser, simpledialog as s
 from PIL import Image, ImageTk
 from random import randint
 from platform import system as syst
-# import platform
-# import doctest
-# import sys
 from os import path
 from src.common_utils import distance, strfilter, n_repeat, arithmetic_round as a_round, is_number
 
